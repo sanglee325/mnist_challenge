@@ -9,3 +9,9 @@ models
 
 # compiled python files
 *.pyc
+
+# IDE
+.vscode
+
+# zip files
+*.zip
